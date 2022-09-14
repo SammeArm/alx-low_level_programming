@@ -19,6 +19,7 @@ int main(void)
 		{
 			sum += a;
 		}
-		printf("%d\n", sum);
-		return (0);
+	}
+	printf("%d\n", sum);
+	return (0);
 }
